@@ -7,8 +7,8 @@
   },
   "name": "file-upload-api",
   "version": "1.0.0",
-  "main": "index.js",
   "devDependencies": {},
+  "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
